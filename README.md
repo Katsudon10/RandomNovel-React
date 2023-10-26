@@ -1,1 +1,3 @@
 # RandomNovel-React
+
+typescript+chakraUI
